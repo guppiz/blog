@@ -2,7 +2,8 @@
 layout: post
 title:  "Một ngày đông, nhớ Jupiter 8"
 categories: lens, review, jupiter 8
-icon: motorcycle
+icon: lens
+permalink: /:title/
 ---
 
 Một buổi sáng mùa đông điển hình của miền Nam, trời se se lạnh và không có nắng, khi cafein đã thấm, mình tự nhiên thấy nhớ cái lens Jupter 8 (sau đây gọi thân thương là J8).
