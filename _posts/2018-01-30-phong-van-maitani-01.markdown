@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chuyện nhà Olympus (2) - Cụ Maitani nói gì về dòng máy OM"
-categories: OM, Yoshihisa Maitani, Chuyện nhà Olympus
+categories: [OM, Yoshihisa Maitani, Chuyện nhà Olympus]
 icon: book
 permalink: /:title/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Một ngày đông, nhớ Jupiter 8"
-categories: lens, review, jupiter 8
+categories: [Lens, Review, Jupiter 8]
 icon: lens
 permalink: /:title/
 ---
