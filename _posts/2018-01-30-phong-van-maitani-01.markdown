@@ -2,7 +2,7 @@
 layout: post
 title:  "Chuyện nhà Olympus (2) - Cụ Maitani nói gì về dòng máy OM"
 categories: [OM, Yoshihisa Maitani, Chuyện nhà Olympus]
-icon: book
+icon: twich
 permalink: /:title/
 ---
 Đây là bài phỏng vấn ông Yoshihisa Maitani, đăng trên tạp chí “Classic Camera” năm 2001, mình vô tình tìm được và dịch lại từ [World Traveller](https://esif.world-traveller.org/om-sif/concepts.htm "World Traveller"). Trong bài này, Yoshihisa Maitani - người anh lớn trong nhà Olympus, nhà thiết kế nổi tiếng đứng sau dòng máy ảnh Pen, OM và XA - nói về quan điểm thiết kế của bản thân ông: “Những chiếc máy ảnh của thế hệ đi trước làm ra là những di sản công nghệ. Tôi trân trọng những thiết kế đó, và sẽ chẳng bao giờ làm nhái chúng. Kiên định với quan điểm về tính nguyên bản của mình, Maitani đã đưa dòng OM đến với thành công và danh tiếng, mặc dù là kẻ xuất phát trễ trong cuộc đua SLR *(Tài lanh chút xíu: Single Lens Reflect, máy ảnh gương lật một thấu kính: Một loại máy ảnh, dùng một ống kính duy nhất để chụp và ngắm (single lens). Khi ngắm, hình ảnh từ ống kính được được đưa đến mắt thông qua một hệ gương phản chiếu (reflect). Khi chụp, một gương trong hệ này lật lên, cho phép ánh sáng chiếu vào film.)*
