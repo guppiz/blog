@@ -1,12 +1,15 @@
 ---
-
-
+layout: post
+title:  "Vài mẹo nhỏ cho bạn chụp film"
+categories: [Tips]
+icon: fa-gift
+permalink: /:title/
 ---
 
 <ol>
 <li>
 <p>Lens trầy, máy chết đo sáng<br>
-Nếu bạn nghèo như <s>chó</s> sinh viên, nhưng muốn có một cái máy vừa để chụp vừa để phòng thân, hoặc mang theo mình lê lết khắp giang hồ mà không phải lo lắng o bế quá cho nó,  hãy mua một cái máy chết đo sáng kèm một lens bị trầy nhẹ.<br>
+Nếu bạn đã quá vã rồi, nhưng vẫn muốn có một cái máy vừa để chụp vừa để phòng thân, hoặc mang theo mình lê lết khắp giang hồ mà không phải lo lắng o bế quá cho nó, hãy mua một cái máy chết đo sáng kèm một lens bị trầy nhẹ.<br>
 Vì máy chết đo sáng thường rẻ hơn máy đo sáng còn hoạt động (thuật ngữ thường được dùng để chỉ các máy đo sáng còn nhảy nhưng vô dụng), và các máy đo sáng chính xác. App đo sáng trên smartphone dễ dàng ăn đứt các công nghệ đo sáng cổ lỗ sĩ từ thập nhiên 60-80 kia. Thêm nữa, khi dùng máy không có đo sáng, bạn sẽ có thêm 1 siêu năng lực là đọc được ánh sáng, nếu chịu khó để ý và ghi nhớ thêm các quy tắc đo sáng như sunny 16. Khi đó chỉ cần nhìn xung quanh bạn có thể đoán được mình cần chụp với setting thế nào mà éo cần móc điện thoại ra, giống như độc cô cầu bại chém nhau mà không cần dùng tới kiếm vậy.</p>
 <p>Cũng tương tự, các lens bị trầy nhẹ/bị cleaning marks thường rẻ hơn các lens “kính không lỗi lầm”, nhưng cho chất lượng khá ổn (nếu không muốn nói là “không ảnh hưởng đến ảnh”). Mình vẫn hay chụp bằng lens trầy và chẳng soi nổi chúng dở ở chỗ nào.</p>
 <p>Ảnh từ kính trầy ra sẽ dễ coi hơn là kính bị hỏng coating, hoặc bị mốc, rễ tre. Kính trước bị trầy sẽ ít ảnh hưởng tới ảnh hơn kính sau.<br>
