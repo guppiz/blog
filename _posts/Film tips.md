@@ -4,33 +4,34 @@
 ---
 
 <ol>
-<li>Khép khẩu<br>
-Chờ mãi cuối Lab cũng gửi mail. Xem xong bạn nhẹ nhàng xoá mail, thề sẽ giấu luôn như mèo giấu c*t. Vì sao cả cuộn film nghệ thuật chụp không dính gấu mà toàn focus vô em ngồi bàn sau lưng?</li>
-</ol>
-<p>Khép khẩu làm tăng độ dày (hay độ sâu) của vùng nét, giúp việc focus bằng tay của bạn ít rủi ro hơn.<br>
-Đa số các ống kính sẽ đạt độ nét “ngon” nhất từ f8 trở đi.</p>
-<ol start="2">
+<li>
+<p>Lens trầy, máy chết đo sáng<br>
+Nếu bạn nghèo như <s>chó</s> sinh viên, nhưng muốn có một cái máy vừa để chụp vừa để phòng thân, hoặc mang theo mình lê lết khắp giang hồ mà không phải lo lắng o bế quá cho nó,  hãy mua một cái máy chết đo sáng kèm một lens bị trầy nhẹ.<br>
+Vì máy chết đo sáng thường rẻ hơn máy đo sáng còn hoạt động (thuật ngữ thường được dùng để chỉ các máy đo sáng còn nhảy nhưng vô dụng), và các máy đo sáng chính xác. App đo sáng trên smartphone dễ dàng ăn đứt các công nghệ đo sáng cổ lỗ sĩ từ thập nhiên 60-80 kia. Thêm nữa, khi dùng máy không có đo sáng, bạn sẽ có thêm 1 siêu năng lực là đọc được ánh sáng, nếu chịu khó để ý và ghi nhớ thêm các quy tắc đo sáng như sunny 16. Khi đó chỉ cần nhìn xung quanh bạn có thể đoán được mình cần chụp với setting thế nào mà éo cần móc điện thoại ra, giống như độc cô cầu bại chém nhau mà không cần dùng tới kiếm vậy.</p>
+<p>Cũng tương tự, các lens bị trầy nhẹ/bị cleaning marks thường rẻ hơn các lens “kính không lỗi lầm”, nhưng cho chất lượng khá ổn (nếu không muốn nói là “không ảnh hưởng đến ảnh”). Mình vẫn hay chụp bằng lens trầy và chẳng soi nổi chúng dở ở chỗ nào.</p>
+<p>Ảnh từ kính trầy ra sẽ dễ coi hơn là kính bị hỏng coating, hoặc bị mốc, rễ tre. Kính trước bị trầy sẽ ít ảnh hưởng tới ảnh hơn kính sau.<br>
+Tốt nhất là các bạn hãy vác một máy ảnh số và ngàm chuyển sang tận nơi để chụp thử, thấy đẹp quất luôn, đỡ tốn tiền ship, lại được giảm vài chục ngàn tiền xăng xe :)</p>
+</li>
 <li>
 <p>Mang theo canister đen<br>
-Hỏi: Một ngày nọ đang đi chụp, nếu nhỡ đứt phim, sau khi thi triển đủ loại công phu và lấy được phần film đã chụp ra ngoài, bạn sẽ cất cuộn film này ở đâu để sau này còn có cơ may thấy được những shot hình yêu quý?<br>
-Đáp: Một canister màu đen.<br>
-(hoặc một cái bọc đen loại siêu tốt)</p>
+Hỏi: Một ngày nọ đang đi chụp, nếu lỡ đứt phim, sau khi thi triển đủ loại công phu và lấy được phần film đã chụp ra ngoài, bạn sẽ cất cuộn film này ở đâu để sau này còn có cơ may thấy được những shot hình yêu quý?<br>
+Mình thích cách nghĩ của bạn, nhưng condom không đa năng dữ vậy đâu.<br>
+Đáp: Một canister (vỏ đựng film) màu đen.</p>
 </li>
 <li>
-<p>Ko để máy/film trong cốp xe<br>
-Film thả vào cốp xe giống như con gái thả vào beer club vậy. Nếu vô 10 phút ra liền chắc hổng sao, nhưng nếu quá nửa tiếng: grain sẽ bùng nổ như tóc xoã, màu sẽ nhạt nhoà như màu son phai theo từng ly bia.</p>
-</li>
-</ol>
+<p>Ko để máy/film trong cốp xe máy<br>
+Film thả vào cốp xe giống như con gái thả vào beer club vậy. Nếu vô 10 phút ra liền chắc hổng sao, nhưng nếu xe chạy quá nửa tiếng: grain sẽ bùng nổ như tóc xoã, màu sẽ nhạt nhoà như màu son phai theo từng ly bia.</p>
 <p>Cũng có bạn sẽ thích màu film buông lơi kiểu này. Riêng tui, tui thích con gái tỉnh táo ahihi.</p>
-<ol start="4">
+</li>
 <li>
 <p>Muỗng cà phê mở nắp pin<br>
-Nắp pin của máy film được thiết kế để có thể mở bởi bất kì một cái muỗng cà phê nào. Vậy nên đừng tốn công đi tìm đồng xu 10 Yên Nhật làm gì.<br>
+Nắp pin của máy film được thiết kế để có thể mở được bằng hầu hết các loại muỗng (còn gọi là thìa, nếu chỗ bạn có mùa đông). Vậy nên đừng tốn công đi tìm đồng xu 10 Yên Nhật làm gì.<br>
 Nếu không có muỗng cà phê, bạn có thể thử vận may bằng góc thẻ ATM, móng tay hoặc răng (giỡn thôi, đừng thử nha :D)<br>
 Nếu nắp pin cứng quá vặn hoài không ra thì tốt nhất là đừng mở luôn, vì có thể nó sẽ bể (nếu là nắp mủ). Khi đó bạn vừa không cho pin vào được, lại làm xấu máy ~&gt; mất cả chì lẫn chài :D</p>
 </li>
 <li>
-<p>Tập ước lượng khoảng cách</p>
+<p>Nếu điểm vàng quá mờ<br>
+Hãy cắt 1 miếng băng keo đen nhỏ, dán đúng vào chỗ của điểm vàng trên kính ngắm của bạn, tình hình sẽ được cải thiện.</p>
 </li>
 </ol>
 
