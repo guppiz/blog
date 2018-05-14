@@ -2,7 +2,7 @@
 layout: post
 title:  "Vài mẹo nhỏ cho bạn chụp film"
 categories: [Tips]
-icon: fa-gift
+icon: gift
 permalink: /:title/
 ---
 
