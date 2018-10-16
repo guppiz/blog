@@ -5,9 +5,9 @@ categories: [OM, Yoshihisa Maitani, Chuyện nhà Olympus]
 icon: twitch
 permalink: /:title/
 ---
-Đây là bài phỏng vấn ông Yoshihisa Maitani, đăng trên tạp chí “Classic Camera” năm 2001, mình vô tình tìm được và dịch lại từ [World Traveller](https://esif.world-traveller.org/om-sif/concepts.htm "World Traveller"). Trong bài này, Yoshihisa Maitani - người anh lớn trong nhà Olympus, kiến trúc sư đứng sau dòng máy ảnh Pen, OM và XA - nói về quan điểm thiết kế của bản thân ông: “Những chiếc máy ảnh của thế hệ đi trước làm ra là những di sản công nghệ. Tôi trân trọng những thiết kế đó, và sẽ chẳng bao giờ làm nhái chúng. 
+Đây là bài phỏng vấn ông Yoshihisa Maitani, đăng trên tạp chí “Classic Camera” năm 2001, mình vô tình tìm được và lược dịch lại từ [World Traveller](https://esif.world-traveller.org/om-sif/concepts.htm "World Traveller"). Trong bài này, Yoshihisa Maitani - người anh lớn trong nhà Olympus, kiến trúc sư đứng sau dòng máy ảnh Pen, OM và XA - nói về quan điểm thiết kế của bản thân ông: “Những chiếc máy ảnh của thế hệ đi trước làm ra là những di sản công nghệ. Tôi trân trọng những thiết kế đó, và sẽ chẳng bao giờ làm nhái chúng. 
 
-Kiên định với quan điểm về tính nguyên bản của mình, Maitani đã đưa dòng OM đến với thành công và danh tiếng, mặc dù là kẻ xuất phát trễ trong cuộc đua SLR *(Single Lens Reflect, máy ảnh gương lật một thấu kính: Một loại máy ảnh, dùng một ống kính duy nhất để chụp và ngắm (single lens). Khi ngắm, hình ảnh từ ống kính được được đưa đến mắt thông qua một hệ gương phản chiếu (reflect). Khi chụp, một gương trong hệ này lật lên, cho phép ánh sáng chiếu vào film.)*
+Kiên định với quan điểm về tính nguyên bản của mình, Maitani đã đưa dòng OM đến với thành công và danh tiếng, mặc dù là kẻ xuất phát trễ trong cuộc đua SLR *(Single Lens Reflect, máy ảnh gương lật một thấu kính)*
 
 **Hôm nay, Classic camera muốn tìm hiểu thêm về những câu chuyện dẫn đến sự ra đời của dòng máy OM. Khi được đề nghị phát triển một máy ảnh SLR, ông đã nghĩ gì?**
 
@@ -45,8 +45,12 @@ Bên dưới gương lật có một khoảng trống, và tôi nghĩ: "Tốt, m
 
 **Vấn đề thứ ba của các mày SLR là màn trập quá ồn. Chính nhờ vào đệm không khí mà tiếng màn trập của OM-1 khác hẳn những chiếc SLR khác đúng không?**
 
-**YM:**  Trước khi tìm ra cái đệm không khí, tôi đã thử qua nhiều thứ – lò xo, dầu, bột – nhưng không loại nào dùng được cả. Đệm yếu quá thì không ổn, nhưng nếu đệm mạnh quá, nó có thể làm gương lật ngừng ngang chừng. Lúc đó, tôi chợt nhớ đến một lần khi đang dọn nhà, một cái cửa trượt bằng giấy đổ xuống, nhưng chỉ nghe một tiếng “pụp” nhẹ nhàng. Chính là nhờ sức cản của không khí. Tôi thiết kế một đệm không khí nằm cạnh hệ thống gương lật – không khí đi vào rồi ra, thông qua một xi lanh đóng vai trò như một cái đệm. Tôi mua hẳn một cái máy đo tiếng ồn để thử, và nó êm hơn đến vài decibel. Chưa một chiếc máy ảnh nào được quan tâm kỹ càng về mặt âm thanh đến vậy, mà cũng chưa có cái nào có đệm không khí như OM-1.
+**YM:**  Trước khi tìm ra cái đệm không khí, tôi đã thử qua nhiều thứ – lò xo, dầu, bột – nhưng không loại nào dùng được cả. Đệm yếu quá thì sẽ ồn, nhưng nếu đệm mạnh quá, nó có thể làm gương lật ngừng ngang chừng. 
+
+Lúc đó, tôi chợt nhớ đến một lần khi đang dọn nhà, một cái cửa trượt bằng giấy đổ xuống, nhưng chỉ nghe một tiếng “pụp” nhẹ nhàng. Chính là nhờ sức cản của không khí. Tôi thiết kế một đệm không khí nằm cạnh hệ thống gương lật – không khí đi vào rồi ra, thông qua một xi lanh đóng vai trò như một cái đệm. Tôi mua hẳn một cái máy đo tiếng ồn để thử, và nó êm hơn đến vài decibel. Chưa một chiếc máy ảnh nào được quan tâm kỹ càng về mặt âm thanh đến vậy, mà cũng chưa có cái nào có đệm không khí như OM-1.
 
 **Một câu hỏi nữa, hệ máy OM không có nút khoá cò. Tôi biết có nhiều kỹ sư không thích điều này, lý do nào khiến ông làm vậy?**
 
-**YM:** Khi OM-1 được giới thiệu, các tạp chí máy ảnh cũng hay chỉ trích vấn đề này. Câu trả lời của tôi luôn là: bạn có thể mất một tấm film vì không có khoá an toàn cho cò máy, nhưng theo kinh nghiệm của tôi, đôi khi bạn không có cơ hội thứ hai để chụp một bức ảnh. Nếu máy có khoá cò, bạn mất đi cơ hội để chụp những khoảnh khắc bất ngờ. Dù mang theo máy ảnh nào bên người, tôi luôn thích cò máy sẵn sàng để bấm bất cứ lúc nào. Cũng vì lý do đó, tôi cố gắng giảm tối thiểu độ trễ của màn trập. Nhiệm vụ quan trọng nhất của một chiếc máy ảnh vẫn là bắt được cái “khoảnh khắc”.
+**YM:** Cánh báo chí vẫn hay chỉ trích chuyện này. Câu trả lời của tôi luôn là: bạn có thể mất một tấm film vì không có khoá an toàn cho cò máy, nhưng đôi khi bạn không có cơ hội thứ hai để chụp một bức ảnh. Dù mang theo máy ảnh nào bên người, tôi muốn nó luôn phải sẵn sàng. 
+
+Cũng vì lý do đó, tôi cố gắng giảm tối thiểu độ trễ của màn trập. Nhiệm vụ quan trọng nhất của một chiếc máy ảnh vẫn là bắt được cái “khoảnh khắc”.
