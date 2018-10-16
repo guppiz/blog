@@ -39,8 +39,10 @@ a {
  * Images
  */
 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     max-width: 100%;
-    vertical-align: middle;
     border-radius: 5px;
 }
 
@@ -320,4 +322,5 @@ header {
 footer {
     text-align: center;
     padding: 2em 0;
+    font-size: 75%;
 }

@@ -5,6 +5,7 @@ categories: [OM, Yoshihisa Maitani, Chuyện nhà Olympus]
 icon: twitch
 permalink: /:title/
 ---
+![Yoshihisa Maitani và Olympus OM1](/images/maitani_2002.jpg)
 Đây là bài phỏng vấn ông Yoshihisa Maitani, đăng trên tạp chí “Classic Camera” năm 2001, mình vô tình tìm được và lược dịch lại từ [World Traveller](https://esif.world-traveller.org/om-sif/concepts.htm "World Traveller"). Trong bài này, Yoshihisa Maitani - người anh lớn trong nhà Olympus, kiến trúc sư đứng sau dòng máy ảnh Pen, OM và XA - nói về quan điểm thiết kế của bản thân ông: “Những chiếc máy ảnh của thế hệ đi trước làm ra là những di sản công nghệ. Tôi trân trọng những thiết kế đó, và sẽ chẳng bao giờ làm nhái chúng. 
 
 Kiên định với quan điểm về tính nguyên bản của mình, Maitani đã đưa dòng OM đến với thành công và danh tiếng, mặc dù là kẻ xuất phát trễ trong cuộc đua SLR *(Single Lens Reflect, máy ảnh gương lật một thấu kính)*
