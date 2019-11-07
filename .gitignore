@@ -2,3 +2,6 @@ _site/
 .sass-cache/
 .jekyll-metadata
 node_modules/
+gulpfile.js
+_config.yml
+.gitignore

@@ -2,7 +2,7 @@
 
 title: Mọt Lens
 
-baseurl: /
+baseurl: 
 sass: 
     style: compressed
 
@@ -13,6 +13,8 @@ analytics: UA-83979019-1
 
 exclude:
 - README.md
+- node_modules
+- gulpfile.js
 
 include: 
 - _pages
